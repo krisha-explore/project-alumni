@@ -1,1 +1,1 @@
-# project-alumni
+# alumni-connect
